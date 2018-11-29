@@ -1,0 +1,14 @@
+{
+"companyName": "David Dionisio",
+"productName": "LL_PS2A2",
+"dataUrl": "LL_PS2A2Test.data.unityweb",
+"asmCodeUrl": "LL_PS2A2Test.asm.code.unityweb",
+"asmMemoryUrl": "LL_PS2A2Test.asm.memory.unityweb",
+"asmFrameworkUrl": "LL_PS2A2Test.asm.framework.unityweb",
+"TOTAL_MEMORY": 67108864,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
